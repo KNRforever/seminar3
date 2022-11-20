@@ -36,4 +36,7 @@
 
     git commit -a -m"description"
 
-    
+либо 
+
+    git commit -am"description"
+
