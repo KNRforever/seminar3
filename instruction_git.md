@@ -89,3 +89,9 @@ hash - номер коммита
 
     git log --oneline --all
 
+## Возвращение в Master коммит
+
+Чтобы выйти в основную ветку (бранч=branch) т.е ветку Master:
+
+    git checkout master
+
