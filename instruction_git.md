@@ -107,10 +107,13 @@ hash - номер коммита
 
 Чтобы в Git добавить ветку ввести:
 
-    git branch <name of new branch>Ы
+    git branch <name of branch>
 
 ### Переход между ветками
 
-Строка для ошибки
+Чтобы переместиться на другую ветку необходимо ввести:
+
+
+    git checkout <name of branch>
 
 ### Слияние
