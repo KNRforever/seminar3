@@ -117,3 +117,8 @@ hash - номер коммита
     git checkout <name of branch>
 
 ### Слияние
+
+Для слияния веток необходимо ввести:
+
+    git merge <name of branch>
+    
