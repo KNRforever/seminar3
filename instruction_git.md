@@ -117,3 +117,5 @@ hash - номер коммита
     git checkout <name of branch>
 
 ### Слияние
+
+### Слияние с ошибкой
