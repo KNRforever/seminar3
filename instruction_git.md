@@ -137,3 +137,13 @@ hash - номер коммита
 
     git log --oneline --graph
     
+
+### Удаление ветки
+
+Для удаления ветки ввести:
+
+    git -d <name of branch>
+
+
+
+
